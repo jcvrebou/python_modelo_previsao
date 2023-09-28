@@ -36,8 +36,6 @@ Este projeto tem como objetivo prever a classificação de novos clientes, a par
 
 - A partir do modelo testado e escolhido pela maior acurácia, aplicá-lo para novos clientes já que o modelo está treinado e foi testado.
 
-**negrito**
+##### Nota: Toda a codificação foi feita por este usuário, sem cópia de código, a partir da aula "Inteligência Artificial e Previsões" do canal [Hashtag Programação](https://www.youtube.com/watch?v=V3OcwhtPgqw)
 
-##### Nota: Toda a codificação foi feita por este usuário, sem cópia de código, a partir da aula "Inteligência Artificial e Previsões" do canal Hashtag Programação.
-
-[Hashtag Programação - Python IA: Inteligência Artificial e Previsões | Jornada Python [Aula 3]](https://www.youtube.com/watch?v=V3OcwhtPgqw)
+#### :) Siga-me no [linkedin](https://www.linkedin.com/in/jcvreboucas/)
